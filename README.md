@@ -98,5 +98,5 @@ Is this viable? Is it naive? Is it the only logical conclusion of an AI-displace
 ---
 
 *Longyuan is an independent monetary protocol concept.*  
-*Initiated 2025. All rights reserved under MGOVL v2.0.*  
+*Initiated 2026. All rights reserved under MGOVL v2.0.*  
 *Viewing and citation permitted. Reproduction and commercial use require written authorization.*
